@@ -1,0 +1,6 @@
+numpy==1.21.0rc1
+prettytable==2.1.0
+panel==0.12.0a11
+matplotlib==3.4.2
+librosa==0.8.1
+iphyton==7.24.0
